@@ -1,6 +1,6 @@
 // src/components/Hero.jsx
 import React from 'react';
-import heroVideo from './assets/hero-video.mp4';
+import heroVideo from './src/assets/hero-video.mp4';
 
 function Hero() {
   return (
